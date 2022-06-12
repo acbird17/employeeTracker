@@ -18,6 +18,8 @@ A command line application to track, edit, add and remove employees from a mysql
 
 Navigate into the `db/` folder and type `mysql -u root -p` and then your password. Once you are logged in run the commands `source schema.sql` followed by `source seeds.sql`. From there back out into the root folder and type `npm i` to instal the libraries, then type `npm start` to run the application. Follow the provided prompts from there.
 
+<a href="https://drive.google.com/file/d/12bQYldF_lnI0LzAPkXIf4QsxBrHNaYvz/view">Example Video</a>
+
 ## Image
 
 <img src="./assets/readme.jpg" width="600px"></img>
